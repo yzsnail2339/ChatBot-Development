@@ -17,6 +17,14 @@ The Travel Assistant enhances both **customer experience** and **staff efficienc
 
 ---
 
+## 🧭 Live ChatBot Access
+
+You can try out the Travel Assistant ChatBot here:
+
+👉 **[Launch Travel Assistant Bot](https://cdn.botpress.cloud/webchat/v3.2/shareable.html?configUrl=https://files.bpcontent.cloud/2024/10/29/03/20241029032835-W0ZP87FC.json)**
+
+---
+
 ## 👤 Target Users
 
 1. **Travel Agency Customer Service Representatives**
