@@ -102,9 +102,7 @@ This project was developed using [Botpress](https://botpress.com/), integrating 
 
 - **Name:** Zhun Yang  
 - **Email:** zya49@uclive.ac.nz  
-- **Student ID:** 48648581  
-- **University:** University of Canterbury  
-- **Course:** Special Topic – Applications of GenAI Using Large Language Models
+
 
 ---
 
